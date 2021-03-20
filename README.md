@@ -1,1 +1,2 @@
-# bs411-designproject-fluttermobileapp
+# BS411 DESIGN PROJECT
+Mobile Application with Flutter
